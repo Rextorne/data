@@ -10,6 +10,11 @@
         "url": "allModules/23311_M_CN2.json"
       },
       {
+        "id": "CRY",
+        "name": "Cryptography",
+        "url": "allModules/61129_M_CRY.json"
+      },
+      {
         "id": "CyDef",
         "name": "Cyber Defense",
         "url": "allModules/38551_M_CyDef.json"
@@ -32,7 +37,7 @@
       {
         "id": "PlFSec",
         "name": "Platform Security",
-        "url": "allModules/42227_M_PlFSec.json"
+        "url": "allModules/61026_M_PlFSec.json"
       },
       {
         "id": "SecSoW",
@@ -266,6 +271,11 @@
         "id": "ML",
         "name": "Statistical Machine Learning",
         "url": "allModules/31838_M_ML.json"
+      },
+      {
+        "id": "PML",
+        "name": "Python für ML",
+        "url": "allModules/61209_M_PML.json"
       }
     ]
   }

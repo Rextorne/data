@@ -12,7 +12,7 @@
       {
         "id": "AJwn",
         "name": "Auf Jobsuche, was nun?",
-        "url": "allModules/57128_M_AJwn.json"
+        "url": "allModules/61186_M_AJwn.json"
       },
       {
         "id": "AppArch",
@@ -43,6 +43,11 @@
         "id": "CPlA",
         "name": "C++ Advanced",
         "url": "allModules/28684_M_CPlA.json"
+      },
+      {
+        "id": "CRY",
+        "name": "Cryptography",
+        "url": "allModules/61129_M_CRY.json"
       },
       {
         "id": "CldInf",
@@ -182,7 +187,7 @@
       {
         "id": "PlFSec",
         "name": "Platform Security",
-        "url": "allModules/42227_M_PlFSec.json"
+        "url": "allModules/61026_M_PlFSec.json"
       },
       {
         "id": "SModSim",
@@ -291,7 +296,7 @@
       {
         "id": "AJwn",
         "name": "Auf Jobsuche, was nun?",
-        "url": "allModules/57128_M_AJwn.json"
+        "url": "allModules/61186_M_AJwn.json"
       },
       {
         "id": "AlgDat",
@@ -352,6 +357,11 @@
         "id": "CPlA",
         "name": "C++ Advanced",
         "url": "allModules/28684_M_CPlA.json"
+      },
+      {
+        "id": "CRY",
+        "name": "Cryptography",
+        "url": "allModules/61129_M_CRY.json"
       },
       {
         "id": "CldInf",
@@ -454,6 +464,11 @@
         "url": "allModules/36457_M_HackL.json"
       },
       {
+        "id": "HoC",
+        "name": "Hands-on Chatbots",
+        "url": "allModules/61049_M_HoC.json"
+      },
+      {
         "id": "IBN",
         "name": "Intent-Based Networking",
         "url": "allModules/57056_M_IBN.json"
@@ -519,6 +534,11 @@
         "url": "allModules/39045_M_PF.json"
       },
       {
+        "id": "PML",
+        "name": "Python für ML",
+        "url": "allModules/61209_M_PML.json"
+      },
+      {
         "id": "PWWD",
         "name": "Praxiswoche Webdesign",
         "url": "allModules/57180_M_PWWD.json"
@@ -531,7 +551,7 @@
       {
         "id": "PlFSec",
         "name": "Platform Security",
-        "url": "allModules/42227_M_PlFSec.json"
+        "url": "allModules/61026_M_PlFSec.json"
       },
       {
         "id": "SAI21",
@@ -700,7 +720,7 @@
       {
         "id": "IntTra",
         "name": "Integraltransformationen",
-        "url": "allModules/15367_M_IntTra.json"
+        "url": "allModules/61226_M_IntTra.json"
       },
       {
         "id": "KomFou1",
@@ -815,6 +835,11 @@
         "url": "allModules/38928_M_FunProg.json"
       },
       {
+        "id": "HoC",
+        "name": "Hands-on Chatbots",
+        "url": "allModules/61049_M_HoC.json"
+      },
+      {
         "id": "OOP1",
         "name": "Objektorientierte Programmierung 1",
         "url": "allModules/43813_M_OOP1.json"
@@ -823,6 +848,11 @@
         "id": "OOP2",
         "name": "Objektorientierte Programmierung 2",
         "url": "allModules/38910_M_OOP2.json"
+      },
+      {
+        "id": "PML",
+        "name": "Python für ML",
+        "url": "allModules/61209_M_PML.json"
       },
       {
         "id": "WE1",
@@ -875,13 +905,13 @@
       },
       {
         "id": "IKAA",
-        "name": "Applied AI",
-        "url": "allModules/44202_M_IKAA.json"
+        "name": "Applied AI SG",
+        "url": "allModules/57381_M_IKAA.json"
       },
       {
         "id": "IKAAp",
-        "name": "Applied AI (Projektarbeit)",
-        "url": "allModules/44196_M_IKAA_p.json"
+        "name": "Applied AI SG (Projektarbeit)",
+        "url": "allModules/57378_M_IKAA_p.json"
       },
       {
         "id": "IKAG",
@@ -890,13 +920,13 @@
       },
       {
         "id": "IKAK",
-        "name": "Gesundes Altern mit Hilfe von künstlicher Intelligenz",
-        "url": "allModules/44064_M_IKAK.json"
+        "name": "Gesundes Altern mit Hilfe von künstlicher Intelligenz  SG",
+        "url": "allModules/57384_M_IKAK.json"
       },
       {
         "id": "IKAKp",
-        "name": "Gesundes Altern mit Hilfe von künstlicher Intelligenz (Projektarbeit)",
-        "url": "allModules/44067_M_IKAK_p.json"
+        "name": "Gesundes Altern mit Hilfe von künstlicher Intelligenz SG (Projektarbeit)",
+        "url": "allModules/57387_M_IKAK_p.json"
       },
       {
         "id": "IKBD",
@@ -956,7 +986,12 @@
       {
         "id": "IKDL",
         "name": "Digitalisieren mit Low Code: Einen AI Chatbot selber bauen",
-        "url": "allModules/44250_M_IKDL.json"
+        "url": "allModules/61146_M_IKDL.json"
+      },
+      {
+        "id": "IKDL_BU",
+        "name": "Digitalisieren mit Low Code: Einen AI Chatbot selber bauen",
+        "url": "allModules/57339_M_IKDL_BU.json"
       },
       {
         "id": "IKDLp",
@@ -1397,6 +1432,36 @@
         "id": "WI2",
         "name": "Business Processes für Informatik",
         "url": "allModules/57174_M_WI2.json"
+      },
+      {
+        "id": "idks.IKBD",
+        "name": "My Data - Big Data",
+        "url": "allModules/57372_M_idks.IKBD.json"
+      },
+      {
+        "id": "idks.IKBW",
+        "name": "Blickwechsel",
+        "url": "allModules/57357_M_idks.IKBW.json"
+      },
+      {
+        "id": "idks.IKCC",
+        "name": "Creative Capability",
+        "url": "allModules/57443_M_idks.IKCC.json"
+      },
+      {
+        "id": "idks.IKMO",
+        "name": "Enkeltauglich?! - Gemeinde und Städte im Morgenland",
+        "url": "allModules/57448_M_idks.IKMO.json"
+      },
+      {
+        "id": "idks.IKSH",
+        "name": "Social and Human Robotic  SG",
+        "url": "allModules/57354_M_idks.IKSH.json"
+      },
+      {
+        "id": "idks.IKVR",
+        "name": "Virtual and Augmented Reality",
+        "url": "allModules/57360_M_idks.IKVR.json"
       }
     ]
   }
