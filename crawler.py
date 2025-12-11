@@ -10,7 +10,6 @@ overwrite_module_data = {
     'ExEv': [['term', 'HS']],
     'ComEng1': [['term', 'FS']],
     'ComEng2': [['term', 'HS']],
-    'NetAut': [['term', 'FS']],
     'SEProj': [['term', 'FS'],['isMandatory', True]],
     'PF': [['isDeactivated', True]],
     'SE1': [['successorModuleId', 'SEP2']],
